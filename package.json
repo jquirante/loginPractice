@@ -1,0 +1,24 @@
+{
+  "name": "loginpractice",
+  "version": "1.0.0",
+  "description": "Practice Login",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/jquirante/loginPractice.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/jquirante/loginPractice/issues"
+  },
+  "homepage": "https://github.com/jquirante/loginPractice#readme",
+  "dependencies": {
+    "cors": "^2.8.5",
+    "express": "^4.16.4"
+  }
+}
