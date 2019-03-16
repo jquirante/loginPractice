@@ -1,0 +1,9 @@
+const creds = {
+    user : username,
+    password : password,
+    db : dbname,
+    host : ip
+    port : port
+}
+
+module.exports = creds;
